@@ -68,6 +68,9 @@ body{
 .container .box:nth-child(10)::before{
   background: linear-gradient(315deg,#ff0000,#ffc107);
 }
+.container .box:nth-child(11)::before{
+  background: linear-gradient(315deg,#00ffdf,#f0ff00);
+}
 .container .box::after{
   content: '';
   position: absolute;
